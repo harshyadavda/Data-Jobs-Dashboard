@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with PowerBI
 
-![Dashboard Page 1](/Dashboard%20Image-1.png)
+![Dashboard Page 1](/Images/Dashboard%20Image-1.png)
 
 ## Introduction
 
@@ -51,7 +51,7 @@ The Data Job Dashboard provides a comprehensive and interactive view of the curr
 
 ### 📄 Page 1 — Data Job Market Summary
 
-![Dashboard Page-1](/Dashboard%20Image-1.png)
+![Dashboard Page-1](/Images/Dashboard%20Image-1.png)
 
 This page gives an end-to-end picture of the job market in 2024, allowing users to quickly understand:
 
@@ -81,7 +81,7 @@ This page serves as a powerful high-level tool for job seekers to compare roles 
 
 ### 📄 Page 2 — Job Title Drill-Through
 
-![Dashboard Page 2](/Dashboard%20Image-2.png)
+![Dashboard Page 2](/Images/Dashboard%20Image-2.png)
 
 Upon selecting any job title, users are taken to a deep-dive page that focuses solely on the chosen role. Insights include:
 
